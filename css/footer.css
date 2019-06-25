@@ -1,0 +1,15 @@
+#footer{
+    width: 95%;
+    display: inline-block;
+    border-top: 1px solid lightgray;
+    text-align: left;
+    font-size: 80%;
+}
+
+.site_info{
+    color: dimgray;
+}
+
+.site_info:hover{
+    color: darkcyan;
+}
